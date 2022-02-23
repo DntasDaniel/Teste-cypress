@@ -1,5 +1,5 @@
-basic-ubuntu-20:
-    runs-on: ubuntu-20.04
+ basic-on-windows:
+    runs-on: windows-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v1
