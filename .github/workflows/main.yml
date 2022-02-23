@@ -1,3 +1,5 @@
+ name: example-basic
+on: [push]
  basic-on-windows:
     runs-on: windows-latest
     steps:
