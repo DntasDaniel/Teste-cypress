@@ -1,6 +1,6 @@
  name: example-basic
 on: [push]
- basic-on-windows:
+jobs: 
     runs-on: windows-latest
     steps:
       - name: Checkout
